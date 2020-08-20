@@ -12,10 +12,10 @@ cities: Chicago, New York City, and Washington, DC for the first six months of
 2017.
 
 ### Files used
-bikeshare.py
-chicago.csv
-new_york_city.csv
-washington.csv
+* bikeshare.py
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
 Data provided by Motivate
