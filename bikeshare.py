@@ -99,7 +99,7 @@ def raw_data(df):
     df['End Time'] = pd.to_datetime(df['End Time'])
 
     start, end =  0,5
-        while (start < 300000):
+        while True:
         raw = input('\nWould you like to see the raw data? Enter yes or no.\n')
         if raw.lower() != 'yes':
             break
